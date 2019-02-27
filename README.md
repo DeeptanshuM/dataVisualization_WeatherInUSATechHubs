@@ -7,5 +7,4 @@ Code for the following visualizations of the sky color everyday in the following
 
 Tutorial for blog to be published soon on deeptanshumalik.com and my medium profile.
 
-Draft link: https://medium.com/@deeptanshumalik/using-data-to-visualize-the-color-of-the-sky-in-san-francisco-seattle-new-york-boston-and-8e996a249f84
 

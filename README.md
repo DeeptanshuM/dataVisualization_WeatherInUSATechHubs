@@ -5,6 +5,6 @@ Code for the following visualizations of the sky color everyday in the following
 - [Boston](https://plot.ly/~deeptanshumalik/8/color-of-the-sky-in-boston-everyday-of-the-year/)
 - [Tel Aviv](https://plot.ly/~deeptanshumalik/12/color-of-the-sky-in-tel-aviv-district-everyday-of-the-year/)
 
-Tutorial for blog to be published soon on deeptanshumalik.com and my medium profile.
+Tutorial for blog to be published soon on [deeptanshumalik.com](https://deeptanshumalik.com) and [medium.com/@deeptanshumalik](https://medium.com/@deeptanshumalik).
 
 
